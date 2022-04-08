@@ -1,0 +1,16 @@
+O que é uma rede? 
+r: É uma conexão que conecta dois pontos. Basicamente é isso que ela é. Ao longo do curso irei aprender a como montar uma e como ela funciona. Também irei entender sobre "Trade Off", porque nem sempre que criamos uma rede ela atenderá a todos os requisitos que desejos. 
+
+Objetivos de uma rede: 
+1. Acesso a dados (ex: arquivos, música, vídeos)
+2. Compartilhamento de recursos (ex: internet, impressora)
+3. Administração centralizada (ex: usuários e permissões)
+
+
+A rede é visível no nosso dia a dia. Tudo está conectado a rede.
+
+
+
+
+
+
