@@ -1,0 +1,22 @@
+# As redes podem ser classificadas quanto ao seu tamanho físico.
+
+* Nanorredes
+* NFC (Near Field Communication ou Comunicação de campo próximo)
+* BAN (Body Area Network ou Rede de área corporal)
+* PAN (Personal Area Network ou Rede de área pessoal)
+* WPAN (Wireless Personal Area Network ou Rede de área pessoal sem fio)
+* NAN (Near-me Area Network ou Rede de área próxima a mim)
+* LAN (Local Area Network ou Rede local)
+* WLAN (Wireless Local Area Network ou Rede local sem fio)
+* HAN (Home Area Network ou Rede caseira)
+* SAN (Storage Area Network ou Rede de armazenamento)
+* CAN (Campus Area Network ou Rede de campo ou rede de campus)
+* MAN (Metropolitan Area Network ou Rede metropolitana)
+* WAN (Wide Area Network ou Rede de longo alcance)
+* GAN (Global Area Network ou Internet)
+* IAN (Internet Area Network ou Rede de área de Internet)
+* Rede interplanetária
+
+
+# Nuvem
+* Uso de recursos de uma rede cuja localização física é desconhecida.
