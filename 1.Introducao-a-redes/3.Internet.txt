@@ -1,0 +1,20 @@
+É uma grande rede de computadores. É uma rede pública de alcance global, e alguns pesquisadores a chamam de GAN(Global Area Network). 
+
+Internet é uma rede pública: qualquer pessoa pode ter acesso.
+Rede privada: acesso restrito.
+
+* O encaminhamento de dados entre redes é denominado roteamento.
+
+Serviços da Internet: 
+* Correio eletrônico
+* Voz sobre IP (VoIP ==> telefonia via rede de computadores)
+* Videoconferência: zap, zoom
+* Jogos online
+* www (World-Wide Web): coletânea de páginas hipertexto interconectadas
+
+Spiders e crawlers (aranhas e rastejadores): sistemas que varrem a web para indexação e localização de dados
+
+# Internet e web não são sinônimos!!
+* Web é um dos serviços disponíveis na Internet
+* Web só é usada através de um navegador
+
